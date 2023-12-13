@@ -6,3 +6,5 @@ Side note: Primary U.S. interstate highways are numbered 1-99. Odd numbers (like
 north/south, and evens (like the 10 or 90) go east/west. Auxiliary highways are numbered 100-
 999, and service the primary highway indicated by the rightmost two digits. Thus, I-405 services
 I-5, and I-290 services I-90.
+
+The Java ZIP folder needs to be opened with a Java IDE such as Eclipse.
